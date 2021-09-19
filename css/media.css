@@ -1,0 +1,21 @@
+@media(max-width:767px){
+    .Large_btn_join{
+        display: inherit;
+    }
+    .btn_join{
+        display: none;
+    }
+    .top-header{
+        display: none;
+    }
+    .instraction_item{
+        margin-bottom: 20px;
+    }
+    .con{
+        width: 100%;
+        
+        margin: auto;
+                
+        margin-bottom: 66px;
+    }
+}
